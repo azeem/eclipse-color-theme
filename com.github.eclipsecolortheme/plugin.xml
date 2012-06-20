@@ -196,6 +196,14 @@
          pluginId="eclihx.ui"
          xml="mappings/eclihx.ui.xml">
    </mapper>
+
+   <mapper
+         class="com.github.eclipsecolortheme.mapper.GenericMapper"
+         name="Lua"
+         pluginId="org.eclipse.koneki.ldt.editor"
+         xml="mappings/org.eclipse.koneki.ldt.editor.xml">
+   </mapper>
+
    </extension>
    <extension
          point="com.github.eclipsecolortheme.theme">

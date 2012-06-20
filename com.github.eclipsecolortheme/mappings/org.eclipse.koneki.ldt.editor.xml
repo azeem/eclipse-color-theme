@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eclipseColorThemeMapping plugin="org.eclipse.koneki.ldt.editor" created="2012-06-21 07:09:00">
+    <mappings>
+        <mapping pluginKey="DLTK_comment_task_tag" themeKey="commentTaskTag"/>
+        <mapping pluginKey="DLTK_default" themeKey="foreground"/>
+        <mapping pluginKey="DLTK_keyword" themeKey="keyword"/>
+        <mapping pluginKey="DLTK_multi_line_comment" themeKey="multiLineComment"/>
+        <mapping pluginKey="DLTK_number" themeKey="number"/>
+        <mapping pluginKey="DLTK_single_line_comment" themeKey="singleLineComment"/>
+        <mapping pluginKey="DLTK_string" themeKey="string"/>
+        <mapping pluginKey="variable.local" themeKey="localVariable"/>
+        <mapping pluginKey="variable.global" themeKey="class"/>
+    </mappings>
+</eclipseColorThemeMapping> 

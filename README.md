@@ -1,5 +1,5 @@
-Eclipse Color Theme
-===================
+Eclipse Color Theme (With Additional Mappings)
+==============================================
 
 Color themes for Eclipse.
 
@@ -65,6 +65,7 @@ Eclipse Color Theme currently supports the following editors:
 * R (StatET)
 * Erlang (ErlIDE)
 * haXe (eclihx)
+* _Lua_ (LDT)
 
 Available themes:
 
